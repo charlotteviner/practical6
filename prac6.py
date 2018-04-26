@@ -49,5 +49,6 @@ print(transformed_text)
 writer = open('map3.html', 'w') # Normal writer
 writer.write(transformed_text)
 '''
+
 with open('map3.html', 'w') as f1:
     f1.write(transformed_text)
